@@ -48,4 +48,16 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mohit9729301-cyber/mohit123/tree/master/0035-search-insert-position) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/mohit9729301-cyber/mohit123/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/mohit9729301-cyber/mohit123/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/mohit9729301-cyber/mohit123/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
