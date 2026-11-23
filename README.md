@@ -13,6 +13,7 @@
 | [0704-binary-search](https://github.com/mohit9729301-cyber/mohit123/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/mohit9729301-cyber/mohit123/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/mohit9729301-cyber/mohit123/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/mohit9729301-cyber/mohit123/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/mohit9729301-cyber/mohit123/tree/master/1603-design-parking-system) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/mohit9729301-cyber/mohit123/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
