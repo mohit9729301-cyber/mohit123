@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mohit9729301-cyber/mohit123/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mohit9729301-cyber/mohit123/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/mohit9729301-cyber/mohit123/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit9729301-cyber/mohit123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0912-sort-an-array](https://github.com/mohit9729301-cyber/mohit123/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -23,6 +24,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mohit9729301-cyber/mohit123/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/mohit9729301-cyber/mohit123/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -60,4 +62,16 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/mohit9729301-cyber/mohit123/tree/master/0933-number-of-recent-calls) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohit9729301-cyber/mohit123/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohit9729301-cyber/mohit123/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohit9729301-cyber/mohit123/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
