@@ -13,6 +13,7 @@
 | [0704-binary-search](https://github.com/mohit9729301-cyber/mohit123/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/mohit9729301-cyber/mohit123/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/mohit9729301-cyber/mohit123/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/mohit9729301-cyber/mohit123/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/mohit9729301-cyber/mohit123/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/mohit9729301-cyber/mohit123/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/mohit9729301-cyber/mohit123/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
