@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mohit9729301-cyber/mohit123/tree/master/0912-sort-an-array) |
+| [1603-design-parking-system](https://github.com/mohit9729301-cyber/mohit123/tree/master/1603-design-parking-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/mohit9729301-cyber/mohit123/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/mohit9729301-cyber/mohit123/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/mohit9729301-cyber/mohit123/tree/master/0709-to-lower-case) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/mohit9729301-cyber/mohit123/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
